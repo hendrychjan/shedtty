@@ -1,0 +1,17 @@
+:: Synchronising package databases...
+ core is up to date
+ extra is up to date
+ community is up to date
+ multilib is up to date
+:: Starting full system upgrade...
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (7) kdeconnect-21.08.1-2  libmd-1.0.4-1  npm-7.24.2-1  pybind11-2.8.0-1  python-pikepdf-3.1.1-1  qt5-base-5.15.2+kde+r236-1
+             xkeyboard-config-2.34-1
+
+Total Download Size:   17,28 MiB
+Total Installed Size:  87,21 MiB
+Net Upgrade Size:       0,15 MiB
+
+:: Proceed with installation? [Y/n] n

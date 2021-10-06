@@ -1,0 +1,12 @@
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:2 http://archive.canonical.com/ubuntu focal InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu focal-updates InRelease
+Get:4 http://archive.ubuntu.com/ubuntu focal-backports InRelease [101 kB]
+Hit:5 http://security.ubuntu.com/ubuntu focal-security InRelease
+Ign:6 http://packages.linuxmint.com uma InRelease
+Hit:7 http://packages.linuxmint.com uma Release
+Fetched 101 kB in 1s (135 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+12 packages can be upgraded. Run 'apt list --upgradable' to see them.
